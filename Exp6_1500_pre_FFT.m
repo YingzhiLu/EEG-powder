@@ -1,6 +1,6 @@
 clear;
 clc;
-
+% This code is written by Yingzhi Lu @ UMCP Cogmo Lab 12/2016, based on the raw code written by Kyle Jaquess @UMCP
 % preset descriptors of matrix
 
 %number of participants
